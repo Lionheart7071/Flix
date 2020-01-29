@@ -20,7 +20,8 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### Notes
 Got a fatal error because one of my components wasn't connected properly. fixed it after inspecting the connections inspector. 
----
+
+--- 
 
 ## Flix Part 1
 
